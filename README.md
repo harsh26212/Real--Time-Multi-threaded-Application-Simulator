@@ -3,7 +3,6 @@
 A visually interactive **Multithreading Simulator** built using Python and Tkinter.
 This project helps in understanding different **threading models, synchronization techniques, and CPU scheduling algorithms** through a graphical interface.
 
----
 
 ## 🚀 Features
 
